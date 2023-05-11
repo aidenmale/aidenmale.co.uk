@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(146, 160, 194);
+}
+
+h1 {
+  color: rgb(255, 255, 255);
+  text-align: center;
+  margin: 10px 20px 30px 40px;
+  border: 1px solid red
+}
+
+li {
+  font-family:  'Comic Sans MS';
+  font-size: 20px;
+}
+
+.paragraphs {
+  display: flex;
+  margin: 0px 24px
+}
